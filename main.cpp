@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
-
+--
 class Calculator {
 public:
     double add(double a, double b) {
@@ -22,4 +22,6 @@ public:
         return a / b;
     }
 };
+
 cout>> помилка>>;
+=======

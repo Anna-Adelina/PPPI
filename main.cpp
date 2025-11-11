@@ -22,3 +22,4 @@ public:
         return a / b;
     }
 };
+cout>> помилка>>;

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
-
+--
 class Calculator {
 public:
     double add(double a, double b) {
